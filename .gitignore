@@ -1,0 +1,10 @@
+.vs/ 
+x64/ 
+*.exe 
+*.pdb 
+*.ilk 
+maze-solver.sln 
+maze-solver.vcxproj 
+maze-solver.vcxproj.filters 
+maze-solver.vcxproj.user 
+maze-solver/ 
